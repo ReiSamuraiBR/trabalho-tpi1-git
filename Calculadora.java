@@ -13,7 +13,7 @@ public class Calculadora {
                 throw new IllegalArgumentException("Operação inválida: " + operacao);
         }
     }
-
+//um comentário
     // Método principal para testar
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
